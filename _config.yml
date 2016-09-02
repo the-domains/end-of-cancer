@@ -6,9 +6,9 @@ color:
   saturation: 0.9899316537193954
   rhythmicContrast: 0.6010285373777151
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: 'End of cancer '
