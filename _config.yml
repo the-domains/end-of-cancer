@@ -1,3 +1,4 @@
+layout_spectrum: 0.4932581044267863
 typography_spectrum: 0.44593645352870226
 color:
   brandStrength: 0.12472444074228406
@@ -5,15 +6,9 @@ color:
   saturation: 0.9899316537193954
   rhythmicContrast: 0.6010285373777151
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.4932581044267863
-author:
-  name: Mohammad Aziz
-  email: azharbiotech@yahoo.com
-  url: oncotosis.com
-name: Oncotosis
-title: End of cancer
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 'End of cancer '
